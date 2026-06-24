@@ -1,0 +1,14 @@
+# 대용량 외부 clone (재현은 README의 clone 명령으로) — 커밋 금지
+data/raw/handbook/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 커밋 유지: outputs/(리포트·이미지), data/interim/*.csv, data/raw/stars.json
