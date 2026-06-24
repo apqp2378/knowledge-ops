@@ -25,8 +25,7 @@
 | `outputs/profile_summary.md`, `outputs/graph_summary.md` | 개인 코퍼스 EDA·그래프 |
 | `data/interim/*.csv` | 노드·엣지(재현용 외부화) |
 | `docs/PROBLEM_DEFINITION.md` | 문제 정의(잠금) |
-| `docs/DECISION_LOG.md` | 의사결정·피벗 기록(판단력 증빙) |
-| `docs/NORTH_STAR.md` | 백워드 플래닝 기준 |
+| `docs/DECISION_LOG.md` | 의사결정·피벗 기록(판단 근거) |
 
 ## 재현
 ```bash

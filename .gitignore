@@ -1,6 +1,9 @@
 # 대용량 외부 clone (재현은 README의 clone 명령으로) — 커밋 금지
 data/raw/handbook/
 
+# 내부 작업 문서(공개 repo 제외)
+docs/NORTH_STAR.md
+
 # Python
 __pycache__/
 *.pyc
